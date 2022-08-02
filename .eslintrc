@@ -1,0 +1,14 @@
+{
+    "parser": "babel-eslint",
+    "extends": [
+        "clarity-hub/node"
+    ],
+    "rules": {
+        "indent": [
+            "error",
+            "tab"
+        ],
+        "no-tabs": "off",
+        "class-methods-use-this": "off"
+    }
+}
